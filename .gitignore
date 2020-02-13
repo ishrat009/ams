@@ -1,0 +1,15 @@
+// Folders
+/.settings/*
+
+
+// Project files
+.idea
+
+
+// target
+/target/*
+
+
+// Files
+*.classpath
+*.project
